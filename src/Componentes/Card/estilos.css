@@ -1,0 +1,11 @@
+.cartao Link{
+    text-decoration: none;
+}
+
+.cartao{
+    border: 2px solid black ;
+    border-radius: 5px;
+    margin-top: 8px;
+    margin-left: 16px;
+    margin-right: 16px;
+}
